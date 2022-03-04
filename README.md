@@ -1,3 +1,4 @@
-# Evolutionary Computation Lab 1
+葛升 12132253
 
-[online demo](https://show-1305499337.cos-website.ap-guangzhou.myqcloud.com/)
+[Evolutionary Computation Lab 1](https://github.com/ges-AS/EC-Lab1)
+[Evolutionary Computation Lab 2](https://github.com/ges-AS/EC-Lab2)
